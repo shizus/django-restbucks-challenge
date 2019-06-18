@@ -49,7 +49,7 @@ We want a clean, reusable, readable, and maintainable code with meaningful comme
 ## Estimation
 
 After reading and understanding the challenge and all of expectations, estimate the required development time, send us your time cost estimation and your reasoning on how you've estimated 
-this. **Do not start development before getting a confirmation from us**.
+this.
 
 ## Tests
 
